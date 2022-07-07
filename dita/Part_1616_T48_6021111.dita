@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1616_T48_6021111">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1616</ph> - TYPES OF CONTRACTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8913; 40 U.S.C. 486(c); 48 CFR 1.301. 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           52 FR 16041, May 1, 1987, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1616_1_T48_60211111.dita#Subpart_1616_1_T48_60211111">Subpart 1616.1 - Selecting Contract Types</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1616_102_T48_6021111111.dita#Section_1616_102_T48_6021111111">1616.102 Policies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1616_105_T48_6021111112.dita#Section_1616_105_T48_6021111112">1616.105 Solicitation provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1616_70_T48_60211112.dita#Subpart_1616_70_T48_60211112">Subpart 1616.70 - Negotiated Benefits Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1616_7001_T48_6021111211.dita#Section_1616_7001_T48_6021111211">1616.7001 Clause - contracts based on a combination of cost and price analysis (community rated).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1616_7002_T48_6021111212.dita#Section_1616_7002_T48_6021111212">1616.7002 Clause - contracts based on cost analysis (experience rated).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_1604_T48_60295">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 1604</ph> - ADMINISTRATIVE MATTERS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 8913; 40 U.S.C. 486(c); 48 CFR 1.301. 
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           52 FR 16039, May 1, 1987, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1604_7_T48_602951.dita#Subpart_1604_7_T48_602951">Subpart 1604.7 - Contractor Records Retention</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_703_T48_60295111.dita#Section_1604_703_T48_60295111">1604.703 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_705_T48_60295112.dita#Section_1604_705_T48_60295112">1604.705 Specific retention periods.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1604_9_T48_602952.dita#Subpart_1604_9_T48_602952">Subpart 1604.9 - Taxpayer Identification Number</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_970_T48_60295211.dita#Section_1604_970_T48_60295211">1604.970 Taxpayer Identification Number.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1604_70_T48_602953.dita#Subpart_1604_70_T48_602953">Subpart 1604.70 - Coordination of Benefits</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_7001_T48_60295311.dita#Section_1604_7001_T48_60295311">1604.7001 Coordination of benefits clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1604_71_T48_602954.dita#Subpart_1604_71_T48_602954">Subpart 1604.71 - Disputed Health Benefit Claims</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_7101_T48_60295411.dita#Section_1604_7101_T48_60295411">1604.7101 Filing health benefit claims/court review of disputed claims.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_1604_72_T48_602955.dita#Subpart_1604_72_T48_602955">Subpart 1604.72 - Large Provider Agreements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_7201_T48_60295511.dita#Section_1604_7201_T48_60295511">1604.7201 FEHB Program Large Provider Agreements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1604_7202_T48_60295512.dita#Section_1604_7202_T48_60295512">1604.7202 Large Provider Agreement clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
