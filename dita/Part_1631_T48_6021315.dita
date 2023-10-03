@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1631_T48_6021315">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1631</ph> - CONTRACT COST PRINCIPLES AND PROCEDURES</title>
+      <title class="- topic/title ">PART 1631—CONTRACT COST PRINCIPLES AND PROCEDURES 
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1631_1_T48_60213151.dita#Subpart_1631_1_T48_60213151">Subpart 1631.1 - Definitions</xref>
+                        href="Subpart_1631_1_T48_60213151.dita#Subpart_1631_1_T48_60213151">Subpart 1631.1—Definitions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1631_2_T48_60213152.dita#Subpart_1631_2_T48_60213152">Subpart 1631.2 - Contracts With Commercial Organizations</xref>
+                        href="Subpart_1631_2_T48_60213152.dita#Subpart_1631_2_T48_60213152">Subpart 1631.2—Contracts With Commercial Organizations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -47,8 +47,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_201_70_T48_6021315212.dita#Section_1631_201_70_T48_6021315212">1631.201-70 Credits.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_201–70_T48_6021315212.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -59,20 +58,17 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_203_70_T48_6021315214.dita#Section_1631_203_70_T48_6021315214">1631.203-70 Allocation techniques.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_203–70_T48_6021315214.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_203_71_T48_6021315215.dita#Section_1631_203_71_T48_6021315215">1631.203-71 Business unit General and Administrative (G&amp;A) expenses.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_203–71_T48_6021315215.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_203_72_T48_6021315216.dita#Section_1631_203_72_T48_6021315216">1631.203-72 Home office expense.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_203–72_T48_6021315216.dita#"/>
                      </p>
                   </li>
                   <li>
@@ -83,92 +79,77 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_10_T48_6021315218.dita#Section_1631_205_10_T48_6021315218">1631.205-10 Cost of money.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–10_T48_6021315218.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_41_T48_6021315219.dita#Section_1631_205_41_T48_6021315219">1631.205-41 Taxes.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–41_T48_6021315219.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_70_T48_60213152110.dita#Section_1631_205_70_T48_60213152110">1631.205-70 FEHBP public relations and advertising costs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–70_T48_60213152110.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_71_T48_60213152111.dita#Section_1631_205_71_T48_60213152111">1631.205-71 FEHBP bad debts.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–71_T48_60213152111.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_72_T48_60213152112.dita#Section_1631_205_72_T48_60213152112">1631.205-72 FEHBP compensation for personal services.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–72_T48_60213152112.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_73_T48_60213152113.dita#Section_1631_205_73_T48_60213152113">1631.205-73 FEHBP interest expense.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–73_T48_60213152113.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_74_T48_60213152114.dita#Section_1631_205_74_T48_60213152114">1631.205-74 FEHBP losses on other contracts.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–74_T48_60213152114.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_75_T48_60213152115.dita#Section_1631_205_75_T48_60213152115">1631.205-75 Selling costs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–75_T48_60213152115.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_76_T48_60213152116.dita#Section_1631_205_76_T48_60213152116">1631.205-76 Trade, business, technical, and professional activity costs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–76_T48_60213152116.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_77_T48_60213152117.dita#Section_1631_205_77_T48_60213152117">1631.205-77 FEHBP start-up and other nonrecurring costs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–77_T48_60213152117.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_78_T48_60213152118.dita#Section_1631_205_78_T48_60213152118">1631.205-78 FEHBP printed material costs.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–78_T48_60213152118.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_79_T48_60213152119.dita#Section_1631_205_79_T48_60213152119">1631.205-79 Mandatory statutory reserves.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–79_T48_60213152119.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_80_T48_60213152120.dita#Section_1631_205_80_T48_60213152120">1631.205-80 Major subcontractor service charges.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–80_T48_60213152120.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_81_T48_60213152121.dita#Section_1631_205_81_T48_60213152121">1631.205-81 Inferred reasonableness.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–81_T48_60213152121.dita#"/>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_1631_205_82_T48_60213152122.dita#Section_1631_205_82_T48_60213152122">1631.205-82 Audits.</xref>
+                        <xref outputclass="fm:TOC" href="Section_1631_205–82_T48_60213152122.dita#"/>
                      </p>
                   </li>
                </ul>
