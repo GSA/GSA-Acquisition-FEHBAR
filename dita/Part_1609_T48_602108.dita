@@ -3,12 +3,14 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_1609_T48_602108">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 1609</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <title class="- topic/title ">PART 1609—CONTRACTOR QUALIFICATIONS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           5 U.S.C. 8913; 40 U.S.C. 486(c); 48 CFR 1.301.
+                           5 U.S.C. 8903c and 8913; 40 U.S.C. 486(c); 48 CFR 1.301.
+
+
 
 
 
@@ -17,7 +19,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1609_4_T48_6021081.dita#Subpart_1609_4_T48_6021081">Subpart 1609.4 - Debarment, Suspension, and Ineligibility</xref>
+                        href="Subpart_1609_4_T48_6021081.dita#Subpart_1609_4_T48_6021081">Subpart 1609.4—Debarment, Suspension, and Ineligibility</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -37,13 +39,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_1609_70_T48_6021082.dita#Subpart_1609_70_T48_6021082">Subpart 1609.70 - Minimum Standards for Health Benefits Carriers</xref>
+                        href="Subpart_1609_70_T48_6021082.dita#Subpart_1609_70_T48_6021082">Subpart 1609.70—Minimum Standards for Health Benefits Carriers</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
                               href="Section_1609_7001_T48_602108211.dita#Section_1609_7001_T48_602108211">1609.7001 Minimum standards for health benefits carriers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_1609_7002_T48_602108212.dita#Section_1609_7002_T48_602108212">1609.7002 Minimum standards for Postal Service Health Benefits Carriers.</xref>
                      </p>
                   </li>
                </ul>
