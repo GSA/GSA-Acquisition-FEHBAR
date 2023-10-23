@@ -6,7 +6,10 @@
       <title class="- topic/title ">
          <ph props="autonumber">1652.000</ph> Applicable clauses.</title>
       <conbody>
-         <p xtrc="P">The clauses of FAR subpart 52.2 shall be applicable to FEHBP contracts as specified in the FEHBAR Clause Matrix in subpart 1652.3. 
+         <p xtrc="P">The clauses of FAR subpart 52.2 shall be applicable to FEHBP contracts as specified in the FEHBAR Clause Matrix in subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_1652_3_T48_60215242"
+                  href="Subpart_1652_3_T48_60215242.dita#Subpart_1652_3_T48_60215242">1652.3</xref>. 
 </p>
                               <p xtrc="HD3">Section and Clause Title 
 </p>
